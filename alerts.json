@@ -1,0 +1,229 @@
+[
+    {
+        "timestamp": "2026-06-16T06:49:08.976305",
+        "topic": "AI in Defence",
+        "alert_type": "High Risk Topic",
+        "severity": "High",
+        "alert_score": 61.48,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Risk Score = 0.52"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976355",
+        "topic": "AI in Defence",
+        "alert_type": "High Credibility Source",
+        "severity": "High",
+        "alert_score": 61.48,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Credibility = 80.59"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976365",
+        "topic": "AI in Defence",
+        "alert_type": "Signal Detection",
+        "severity": "High",
+        "alert_score": 61.48,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Operation mentioned",
+            "Autonomous system",
+            "AI-powered system"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976371",
+        "topic": "AI in Defence",
+        "alert_type": "Escalating Threat",
+        "severity": "Critical",
+        "alert_score": 61.48,
+        "sla": "Immediate Response Required",
+        "reasons": [
+            "High Risk",
+            "High Credibility",
+            "Multiple Signals"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976391",
+        "topic": "Border Security",
+        "alert_type": "High Risk Topic",
+        "severity": "High",
+        "alert_score": 60.22,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Risk Score = 0.52"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976395",
+        "topic": "Border Security",
+        "alert_type": "High Credibility Source",
+        "severity": "High",
+        "alert_score": 60.22,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Credibility = 81.14"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976399",
+        "topic": "Border Security",
+        "alert_type": "Signal Detection",
+        "severity": "High",
+        "alert_score": 60.22,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Ceasefire violation",
+            "Escalation signal"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976409",
+        "topic": "Cyber Attacks",
+        "alert_type": "High Risk Topic",
+        "severity": "High",
+        "alert_score": 65.9,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Risk Score = 0.58"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976412",
+        "topic": "Cyber Attacks",
+        "alert_type": "High Credibility Source",
+        "severity": "High",
+        "alert_score": 65.9,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Credibility = 81.96"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976416",
+        "topic": "Cyber Attacks",
+        "alert_type": "Signal Detection",
+        "severity": "High",
+        "alert_score": 65.9,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Cyber attack",
+            "Hacking activity",
+            "Ransomware threat",
+            "AI-powered system"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976420",
+        "topic": "Cyber Attacks",
+        "alert_type": "High Confidence Assessment",
+        "severity": "High",
+        "alert_score": 65.9,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Confidence = 70.58"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976423",
+        "topic": "Cyber Attacks",
+        "alert_type": "Confirmed Intelligence Signal",
+        "severity": "High",
+        "alert_score": 65.9,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Signals Present",
+            "High Confidence"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976426",
+        "topic": "Cyber Attacks",
+        "alert_type": "Escalating Threat",
+        "severity": "Critical",
+        "alert_score": 65.9,
+        "sla": "Immediate Response Required",
+        "reasons": [
+            "High Risk",
+            "High Credibility",
+            "Multiple Signals"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976433",
+        "topic": "Drone Activity",
+        "alert_type": "High Risk Topic",
+        "severity": "High",
+        "alert_score": 65.22,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Risk Score = 0.52"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976437",
+        "topic": "Drone Activity",
+        "alert_type": "High Credibility Source",
+        "severity": "High",
+        "alert_score": 65.22,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Credibility = 82.54"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976441",
+        "topic": "Drone Activity",
+        "alert_type": "Signal Detection",
+        "severity": "High",
+        "alert_score": 65.22,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Operation mentioned",
+            "Drone incursion",
+            "Akash missile mentioned",
+            "AI-powered system",
+            "Swarm activity"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976444",
+        "topic": "Drone Activity",
+        "alert_type": "High Confidence Assessment",
+        "severity": "High",
+        "alert_score": 65.22,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Confidence = 73.27"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976447",
+        "topic": "Drone Activity",
+        "alert_type": "Confirmed Intelligence Signal",
+        "severity": "High",
+        "alert_score": 65.22,
+        "sla": "Review within 4 Hours",
+        "reasons": [
+            "Signals Present",
+            "High Confidence"
+        ]
+    },
+    {
+        "timestamp": "2026-06-16T06:49:08.976449",
+        "topic": "Drone Activity",
+        "alert_type": "Escalating Threat",
+        "severity": "Critical",
+        "alert_score": 65.22,
+        "sla": "Immediate Response Required",
+        "reasons": [
+            "High Risk",
+            "High Credibility",
+            "Multiple Signals"
+        ]
+    }
+]
