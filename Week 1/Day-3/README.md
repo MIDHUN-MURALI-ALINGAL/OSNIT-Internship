@@ -1,4 +1,4 @@
-# Day 1 – Google Dork Library
+# Day 3 – Google Dork Library
 
 ## 📌 Overview
 This practical involved creating a categorized Google Dork Library for efficient OSINT investigations. The library contains search queries for documents, research papers, spreadsheets, and government resources.
