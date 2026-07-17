@@ -1,0 +1,10 @@
+site:zoom.us filetype:pdf
+site:zoom.us inurl:login
+site:zoom.us intitle:"index of"
+site:zoom.us ext:xml
+site:zoom.us ext:log
+site:zoom.us ext:bak
+site:zoom.us filetype:xlsx
+site:zoom.us inurl:admin
+site:zoom.us filetype:docx
+site:zoom.us intext:"privacy""
