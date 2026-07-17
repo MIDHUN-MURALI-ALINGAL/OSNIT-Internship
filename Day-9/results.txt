@@ -1,0 +1,45 @@
+======================================================================
+SEARCH AUTOMATION REPORT
+======================================================================
+Generated: 2026-07-14 18:57:53.549680
+
+Dork 1
+Query : site:zoom.us filetype:pdf
+Search URL : https://www.google.com/search?q=site%3Azoom.us+filetype%3Apdf
+------------------------------------------------------------
+Dork 2
+Query : site:zoom.us inurl:login
+Search URL : https://www.google.com/search?q=site%3Azoom.us+inurl%3Alogin
+------------------------------------------------------------
+Dork 3
+Query : site:zoom.us intitle:"index of"
+Search URL : https://www.google.com/search?q=site%3Azoom.us+intitle%3A%22index+of%22
+------------------------------------------------------------
+Dork 4
+Query : site:zoom.us ext:xml
+Search URL : https://www.google.com/search?q=site%3Azoom.us+ext%3Axml
+------------------------------------------------------------
+Dork 5
+Query : site:zoom.us ext:log
+Search URL : https://www.google.com/search?q=site%3Azoom.us+ext%3Alog
+------------------------------------------------------------
+Dork 6
+Query : site:zoom.us ext:bak
+Search URL : https://www.google.com/search?q=site%3Azoom.us+ext%3Abak
+------------------------------------------------------------
+Dork 7
+Query : site:zoom.us filetype:xlsx
+Search URL : https://www.google.com/search?q=site%3Azoom.us+filetype%3Axlsx
+------------------------------------------------------------
+Dork 8
+Query : site:zoom.us inurl:admin
+Search URL : https://www.google.com/search?q=site%3Azoom.us+inurl%3Aadmin
+------------------------------------------------------------
+Dork 9
+Query : site:zoom.us filetype:docx
+Search URL : https://www.google.com/search?q=site%3Azoom.us+filetype%3Adocx
+------------------------------------------------------------
+Dork 10
+Query : site:zoom.us intext:"privacy""
+Search URL : https://www.google.com/search?q=site%3Azoom.us+intext%3A%22privacy%22%22
+------------------------------------------------------------
